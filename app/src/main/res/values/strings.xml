@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="Url_string_request"><![CDATA[https://opentdb.com/api.php?amount=10&difficulty=]]></string>
+    <string name="UrlString_Highscore">"https://ide50-robner.legacy.cs50.io:8080/list";</string>
+    <string name="post_highscore">https://ide50-robner.legacy.cs50.io:8080/list</string>
+    <string name="title_activity_highscore">highscore</string>
+</resources>
